@@ -1,4 +1,4 @@
-1.1-/*Ramesh's Basic salary is input through the keyboard. 
+/*1.1-Ramesh's Basic salary is input through the keyboard. 
 His dearness allowance is 40% of basic salary, and 
 house rent allowance is 20% of basic salary. 
 write a Programe to Calculate gross salary of Ramesh*/
