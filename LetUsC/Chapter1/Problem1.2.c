@@ -1,4 +1,4 @@
-- [ ] /*The Distance between two cities (in km) is input throughthe keyboard.
+/*1.2-The Distance between two cities (in km) is input throughthe keyboard.
  Write a program to convert and print this distance in meters, feet, inches
  and centimeters.*/
  #include<stdio.h>
